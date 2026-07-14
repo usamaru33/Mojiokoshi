@@ -149,7 +149,7 @@ def _extract_audio(video_path: Path) -> "np.ndarray":
         for frame in container.decode(audio_stream):
             for rf in resampler.resample(frame):
                 frames.append(rf.to_ndarray().flatten())
-    except av.AVError as e:
+    except getattr(av, "FFmpegError", getattr(av, "AVError", OSError)) as e:
         if frames:
             print(f"    [WARN] デコード中にエラー（途中まで取得済み）: {e}")
         else:
