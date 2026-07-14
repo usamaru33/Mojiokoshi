@@ -1,2 +1,5 @@
 Reference/movies/
+Reference/presentation_movies/
 Reference/transcripts/*.pt
+.env
+evaluation_results.csv

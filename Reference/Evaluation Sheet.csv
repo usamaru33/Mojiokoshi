@@ -1,0 +1,115 @@
+,,don't forget to write your name here --> ,66122600662,Yutaro Maeno,"Does the presentation clearly explain the following? 0:gabage, 1: poor, 2: fair, 3: excellent",,,,,,
+W,N,Presenter's name,Presenter's last digit,Paper Venue,Paper's contribution,Problem setting,Key idea,Achivement,Autonomy,Worth listening?,Why do you evaluate so? 日本語でもOK
+,,Example man,5,CVPR,3,3,2,2,1,2,"I can understand the method and its importance, but the presenter just explans the paper detail."
+8,1,TANG Duan,9,CVPR,3,3,3,3,2,3,
+8,2,MARUHASHI Kazuya,9,CVPR,2,3,2,2,3,3,AIジェネレートモデルの難しさは伝わりましたが、解決はできていない気がしました。
+8,3,ZHANG Dexu,1,ECCV,1,2,1,2,2,2,抽象的過ぎていまいちこの論文が何を言いたいかが理解できませんでした
+8,4,TAWDE Chinmay Prashant,0,ICCV,1,3,2,,,,
+8,5,IKEMOTO Keiya,6,CVPR,3,3,3,3,3,3,大変分かりやすかった。研究の面白さ・重要さも十分理解できた。
+8,6,LEI Xun,6,TNNS,3,2,2,3,2,3,理解はできた。医療分野への応用も期待される。
+8,7,KHIN Yadanar Aung,6,ICCV,3,2,3,1,2,2,結果のグラフもあり、効果がありそうなのはわかったが、ハルシネーション
+8,8,RENDIGS Cornelia,,,,,,,,,
+8,9,KISHINO Syoyo,8,CVPR,2,2,2,3,2,2,AIのライトベイクは実用性ありそうだと感じました
+8,10,KIM Hyogyeom,4,CVPR,3,2,3,3,3,3,"図が多く, 説明も聞き取りやすかったため大変理解しやすかった"
+8,11,YADAV Yash Raj,,SIGGRAPH Asia,1,2,2,3,2,1,スライド内の文量が多すぎて理解できなかった
+8,12,YANG Xirui,5,ICCV,2,3,2,2,2,2,人向けでなく機械向けにISPを再設計するという動機が明快だった。
+8,13,CARRASCO VELO Pablo,6,CVPR,3,2,2,2,3,2,アノテーションコストの観点から教師なし検出の意義を自分の言葉で説明できていた。
+8,14,CHEA Wen Jun,6,CVPR,2,3,3,2,2,2,SMPLの限界との対比で生体力学的骨格の意義が明確。応用先も具体的だった。
+8,15,YOSHIDA Yuusei,7,CVPR,2,2,2,2,1,1,空間可変ガウス表現の貢献は伝わったが、発話が不明瞭な箇所が多かった。
+8,16,NAKAMOTO Korin,4,CVPR,2,2,1,2,1,1,要点は押さえているが説明が短く、掘り下げが浅い。
+9,1,HAMID Baizid Al,4,CVPR,,,,,,,
+9,2,KATO Aoi,,,,,,,,,
+9,3,NOMIYAMA Shin,,,,,,,,,
+9,4,GOHEL Shivam,,,,,,,,,
+9,5,WEI Xiaoang,,,,,,,,,
+9,6,MINN Minn Cherry,,,,,,,,,
+9,7,UNAH Paul Echefunachi,,,,,,,,,
+9,8,KONDO Takanobu,,,,,,,,,
+9,9,IZAWA Kensei,,,,,,,,,
+9,10,PALIWAL Mudit,,,,,,,,,
+9,11,SUZUKI Kota,,,,,,,,,
+9,12,NAKANO Go,,,,,,,,,
+9,13,DAI Yicheng,,,,,,,,,
+9,14,NAKANO Hinata,,,,,,,,,
+9,15,BRAND SASTRE Tomas,,,,,,,,,
+9,16,LIU Zhijun,,,,,,,,,
+10,1,TEGUDELI,1,ICCV,2,2,2,2,1,2,ヒートマップ生成の仕組みを平易に説明。バイアス発見の例や限界にも言及。
+10,2,MIAO Ruolin,,,2,2,2,2,2,2,編集の途中過程を選好学習に使う着想が明快。専門家1人分のデータという限界も自覚。
+10,3,IKEGAMI Seiya,0,CSVR,2,2,2,2,3,2,正則化を自動学習するという問題の捉え直しを自分の言葉で説明。改善幅の小ささも正直に評価していた。
+10,4,KOBAYASHI Kiyo,5,CVPR,2,2,2,2,1,1,3つの構成要素は順序立てて説明できていたが、やや原稿頼りの印象。
+10,5,TAKAI Hibiki,1,,2,3,2,2,2,2,揚げ音で調理状態を判定するユニークな題材。実験環境の限界まで誠実に説明。
+10,6,SUN Wenhuan,0,ICCV,3,2,2,2,3,2,データエンジンとタスク再定義がSAMの本質という説明が的確。意味理解の欠如という批判も良い。
+10,7,HARA Kazuki,1,CVPR,3,3,3,3,3,3,変形場とHexPlaneによる高速化の要点が明確だった。
+10,8,KANGI Soham Kishor,8,,3,2,2,2,2,2,データキュレーションが鍵という論点を深く理解。公平性の課題まで言及。
+10,9,OZAKI Mao,2,SIGGRAPH,2,2,2,2,3,2,STMの効果をアブレーションの数値で示せていた。アニメ制作への含意も明確。
+10,10,UENO Issa,1,CVPR,2,2,2,2,3,2,構造保存と色復元の分離という核心が明快。歴史的証拠としての限界にも言及。
+10,11,KUMAZAWA Naoto,8,CVPR,2,2,3,2,2,2,プロンプトの2つの役割の整理が分かりやすい。限界と改善案も提示。
+10,12,CHEN Xuhui,5,CVPR,2,2,1,1,1,1,構成は追えたが英語が不明瞭で細部が伝わりにくかった。
+10,13,KISHINO Syoyo,3,CVPR,3,2,2,2,2,2,チャネル注意への転換という核心を効率の数値とともに簡潔に説明。
+10,14,SONOHARA Syunki,,CVPR,2,2,2,2,2,2,ペア別チャネル混合の工夫が分かりやすい。DNNとの性能差も正直に述べた。
+10,15,YAMASHITA Daichi,,,,,,,,,
+10,16,WANG Runxian,0,CVPR,2,3,2,2,2,2,77トークン制約という問題意識が明確。ベンチマークの意義がよく伝わった。
+11,1,QIN Bo,,,2,2,2,2,1,2,編集タスクの体系化とデータ構築パイプラインという貢献は明確(冒頭は録音欠落)。
+11,2,KASUGA Itta,,,2,2,1,1,1,1,サイクル一貫性の要点は押さえていたが、発話がかなり聞き取りにくい。
+11,3,TRAN Hai Duong,,,,,,,,,
+11,4,TOKUNAGA Takumi,6,CVPR,2,2,2,2,2,2,検索でCLIPを適応させる流れを簡潔に説明。検索品質依存の限界も指摘。
+11,5,POKALKAR USHAKE Rohit,2,ECCV,3,2,3,2,2,3,オブジェクトクエリの導入と後続研究への影響という位置づけが的確。
+11,6,HARA Kazuki,,,,,,,,,
+11,7,NAGAMIZU Ryoki,,CVPR,2,2,3,2,2,2,イベントカメラの利点とメモリ機構の効果をアブレーション込みで分かりやすく説明。
+11,8,WANG Haozhang,3,,3,2,3,2,3,3,ゼロ畳み込みによる安全な適応という本質を見抜き、限界への見解も明確。
+11,9,INAKI Daisuke,5,CVPR,2,2,2,2,2,2,3DGSに能動運動を与える新規性を接触モデルの難しさから説明。
+11,10,YANG Minxu,,CVPR,2,2,1,1,1,1,ドラッグ編集の流れは追えたが発話が不明瞭で細部が欠落。
+11,11,YAMASHITA Ritsuki,,CVPR,2,2,1,1,1,1,確率マップ変調の発想は伝わったが聞き取りにくい部分が多い。
+11,12,ADAM Kumar,,CVPR,2,2,2,2,2,2,車両再同定の難しさから姿勢情報の活用を丁寧に動機づけ。精度の限界も明言。
+11,13,YOSHIZUKA Keita,5,CVPR,2,2,3,2,2,2,Mambaで人体を解剖学的順序に走査する発想を平易に説明。
+11,14,IPPITSU Izuru,7,CVPR,3,2,2,2,3,2,ポイントマップ表現を統一インタフェースとして説明。初期化用途という自分の見解も良い。
+11,15,TSUKA Haruki,6,,2,2,2,2,3,2,データセット自体の妥当性を問うという評価軸を明確に述べた。
+11,16,ZHANG Sheng,3,,2,2,2,1,1,1,データセットの構成は説明できたが結果の考察が浅め。
+12,1,MAENO Yuutaro,,,,,,,,,
+12,2,KISHIMOTO Haruto,,,,,,,,,
+12,3,MORI Masashi,,,,,,,,,
+12,4,MAEKAWA Yuuya,,CVPR,2,2,2,2,2,2,劣化不変特徴の学習という要点を簡潔に説明できていた。
+12,5,MYA Myint Zu,0,CVPR,2,2,2,2,1,2,学習不要の3段構成(検索・ICL・反復改善)を構造的に説明。
+12,6,RAHAMAN Syed Aman,7,CVPR,2,2,2,2,3,2,時間的整合の意義が明快。漸進的貢献と誠実に自己評価する姿勢も良い。
+12,7,BAHOO Muhammad Ehtesham,8,CVPR,3,2,2,2,3,2,幻覚制御と旧来指標の限界という論点を自分の言葉で展開。
+12,8,SHEN Zihan,5,CVPR,3,2,3,2,3,2,難しい画素に計算を割り当てるという核心を的確に説明。速度面の懸念も指摘。
+12,9,YOSHIDA Yuki,,AAAI,2,2,1,1,1,1,要点は挙げられていたが説明が断片的で聞き取りにくい。
+12,10,TANAKA Nozomi,7,CVPR,2,2,2,2,2,2,SVGレイアウト木とICLの組み合わせを数値込みで簡潔に説明。
+12,11,KATAYAMA Kensyo,,CVPR,2,2,2,2,2,2,単眼動画からのアバター生成の貢献と限界を整理できていた。
+12,12,NISHIMURA Shouki,7,CVPR,2,2,2,2,2,2,精度でなく手がかり理解を評価する軸の新しさを解釈可能性の観点から説明。
+12,13,OTA Reiji,8,ICCV,2,3,2,2,3,2,概念的貢献を強調しつつ、自分なりの拡張案まで提示していた。
+12,14,AMANO Kai,4,CVPR,2,2,2,3,2,2,二段階デコーダとデータ効率を数値で具体的に説明。
+12,15,YOSHIDA Taishin,9,ICCV,2,2,2,2,1,2,コスト問題からの動機づけが明確だった(録音は途中まで)。
+12,16,HARITHASA Pranav,,,,,,,,,
+13,1,YOSHIDA Yuusei,,,,,,,,,
+13,2,TAKADA Haruya,0,AAAI,2,2,3,2,2,2,単純な線形変調が推論を生むという洞察を強調。合成データ限定という限界も指摘。
+13,3,YU Haichen,8,MICCAI,2,3,2,2,2,2,術後MRI予測の臨床的意義と検索型ICLの発想が明快。限界も列挙。
+13,4,YAHARA Eiji,6,CVPR,2,2,3,2,2,2,オフライン語彙による高速化の要点が明確。トレードオフの指摘も良い。
+13,5,LI Weichao,,CVPR,2,2,1,1,1,1,顔と髪の層分離という発想は伝わったが説明がかなり聞き取りにくい。
+13,6,SAITO Tomoki,5,,2,3,2,2,3,2,レンダリング結果に触覚を与える新課題を自身の研究と結びつけて評価。
+13,7,TANAHASHI Syuuta,,SIGGRAPH,2,2,3,2,2,2,視点合成問題をハードとソフトの協調設計の観点から体系的に説明。
+13,8,ISHII Daichi,0,,2,2,2,2,2,2,事前学習と入力適応の組み合わせによる高速化を、残る懸念込みで説明。
+13,9,MAEDA Yoshito,0,,2,2,2,2,2,1,マルチモーダル融合の構成は追えたが終盤の説明が不明瞭。
+13,10,MITSUSHIMA Ai,0,CVPR,2,3,2,2,2,2,社会規範を考慮したナビゲーションの意義を具体例で動機づけ。
+13,11,NAKAYAMA Ikumi,,,2,2,2,1,1,1,部分共セグメンテーションという新タスク性は伝わった(冒頭は録音欠落)。
+13,12,MFUNI Jikamo,4,CVPR,2,2,2,2,2,2,微分可能な特徴マッチングをパラダイム転換として位置づける説明が的確。
+13,13,ISOE Ryota,,CVPR,2,2,2,1,1,1,概要は伝わったが掘り下げが浅い。
+13,14,KATO Shunichi,2,ICLR,2,2,3,2,2,2,誘導ギャップの理論と検証を簡潔に説明。適用範囲の限界も明示。
+13,15,WANG Kaiyuan,2,CVPR,3,2,2,2,3,2,古典幾何との新しいバランスという自分の見解が明確。
+13,16,OTANI Ryuunosuke,8,ICIP,2,2,2,2,2,2,ISP前のRAW復元という問題設定の意義を丁寧に説明。
+14,1,XIAO Yuan,,,,,,,,,
+14,2,ISHIDA Syunya,5,,3,2,2,2,3,3,プレゼンスヘッドが核心という見立てが的確。データ量由来ではという疑問の提示も良い(第12回に発表)。
+14,3,NIIMI Hideto,,,,,,,,,
+14,4,SHICHIJYO Yamato,,,,,,,,,
+14,5,SAKAMOTO Yuuma,,,,,,,,,
+14,6,BHONE Tay Zar Kyaw,,,,,,,,,
+14,7,SHIMIZU Fumihiro,,,,,,,,,
+14,8,GENG Yifan,,,,,,,,,
+14,9,UKAI Taisei,,,,,,,,,
+14,10,KARIYAZONO Jyun,,,,,,,,,
+14,11,ZHU Kecheng,,,,,,,,,
+14,12,PANDEY Ansh Vinaykumar,,,,,,,,,
+14,13,PARK Junwoo,,,,,,,,,
+14,14,VEENSTRA SOARES Vasco Miguel,,,,,,,,,
+14,15,ANKENY Luke Anthony,,,,,,,,,
+14,16,KOMETANI Yuuki,,,,,,,,,
