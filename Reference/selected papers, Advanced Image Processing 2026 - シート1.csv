@@ -1,0 +1,111 @@
+,
+HAMID Baizid Al,"Do Vision-Language Models Have Blind Faith in Text? || CVPR 2025, Nashville Tennessee "
+UNAH Paul Echefunachi,Face Detection and Recognition under Real-World Scenarios - Dealing with Deepfake Incidents and Malicious Data Distortions. || WACVW 2025
+Mya Myint Zu,Cropper: Vision-Language Model for Image Cropping through In-Context Learning - CVPR 2025
+Minn Minn Cherry,Learning Heterogeneous Tissues with Mixture of Experts for Gigapixel Whole Slide Images - CVPR 2025
+Khin Yadanar Aung,Hallucinatory Image Tokens: A Training-free EAZY Approach to Detecting and Mitigating Object Hallucinations in LVLMs - ICCV2025
+MORI Masashi,"Zero-Shot Styled Text Image Generation, but Make It Autoregressive - CVPR 2025"
+Wang Kaiyuan,VGGT: Visual Geometry Grounded Transformer - CVPR 2025
+Yuma Sakamoto,Distilling Semantic Priors from SAM to Efficient Image Restoration Models - CVPR2024
+Yuya Maekawa,RobustSAM: Segment Anything Robustly on Degraded Images - CVPR2024
+CHEA Wen Jun,Reconstructing Humans with a Biomechanically Accurate Skeleton - CVPR 2025
+XIAO YUAN,Efficient Visual State Space Model for Image Deblurring - CVPR 2025
+KIM Hyogyeom,Neural Inverse Rendering from Propagating Light - CVPR 2025
+Bhone Tay Zar Kyaw,CAVIS: Context-Aware Video Instance Segmentation - ICCV 2025
+PANDEY Ansh Vinaykumar,Osmosis: RGBD Diffusion Prior for Underwater Image Restoration-ECCV 2024
+Hinata Nakano,GA3CE: Unconstrained 3D Gaze Estimation with Gaze-Aware 3D Context Encoding - CVPR 2025
+Eiji  Yahara,YOLO-World: Real-Time Open-Vocabulary Object Detection - CVPR 2024
+LIU ZHIJUN,Generative Image Dynamics - CVPR 2024
+RAHAMAN Syed Aman,CAV-MAESync: Improving Contrastive Audio-Visual Mask Autoencoders via Fine-Grained Alignment - CVPR 2025
+Taishin Yoshida,Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style Transfer - 2023
+Kazuya Maruhashi,Magic3D: High-Resolution Text-to-3D Content Creation  CVPR-2023
+HARITHASA Pranav,Satellite to GroundScape - Large-scale Consistent Ground View Generation from Satellite Views - CVPR 2025
+WANG Runxian,A Picture is Worth More Than 77 Text Tokens: Evaluating CLIP-Style Models on Dense Captions - CVPR 2024
+Daisuke Inaki, EnliveningGS: Active Locomotion of 3DGS - CVPR2025
+MFUNI Jikamo,DFM: Differentiable Feature Matching for Anomaly Detection - CVPR 2025
+ADAM Kumar,PAMTRI: Pose-Aware Multi-Task Learning for Vehicle Re-Identification Using Highly Randomized Synthetic Data
+Daichi Ishii,Nearly Zero-Cost Protection Against Mimicry by Personalized Diffusion Models - CVPR2025
+Mao Ozaki ,Joint Stroke Tracing and Correspondence for 2D Animation - SIGGRAPH 2024
+Shunya Ishida,SAM 3: Segment Anything with Concepts - ICLR2026
+Fumihiro SHIMIZU,LoFTR: Detector-Free Local Feature Matching with Transformers - CVPR2021
+PARK Junwoo,Add your entry at the bottom of the list as the paper title was not shown here.
+Nozomi Tanaka,PosterO: Structuring Layout Trees to Enable Language Models in Generalized Content-Aware Layout Generation (CVPR 2025)
+YANG Minxu,DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing - CVPR2024
+Reiji Oota,Subjective Camera 1.0: Bridging Human Cognition and Visual Reconstruction through Sequence-Aware Sketch-Guided Diffusion - ICCV 2025
+VEENSTRA SOARES Vasco Miguel,"BEVSegFormer: Bird’s Eye View Semantic Segmentation From Arbitrary
+Camera Rigs - WACV 2023"
+TANG DUAN,Masked Autoencoders Are Scalable Vision Learners - CVPR2021
+WEI Xiaoang,Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation - CVPR 2024
+Miao Ruolin,A Learning-to-Rank Approach for Image Color Enhancement-CVPR 2014
+,Add your entry at the bottom of the list as the paper title was not shown here.
+CARRASCO VELO Pablo,Cut and Learn for Unsupervised Object Detection and Instance Segmentation - CVPR 2023
+Haruki Tsuka,Recognizing Actions from Robotic View for Natural Human-Robot Interaction (ICCV 2025)
+YANG Xirui,Dark-ISP: Enhancing RAW Image Processing for Low-Light Object Detection - ICCV 2025
+Kazuki Hara,4D Gaussian Splatting for Real-Time Dynamic Scene Rendering - CVPR 2024
+Shouki Nishimura,DepthCues: Evaluating Monocular Depth Perception in Large Vision Models - CVPR 2025
+YADAV Yash Raj,Fairygen: Storied Cartoon Video from a Single Child-Drawn Character - SIGGRAPH Asia 2025
+Ikumi Nakayama,CALICO: Part-Focused Semantic Co-Segmentation with Large Vision-Language Models - CVPR 2025
+Yuusei Yoshida,SVG-IR: Spatially-Varying Gaussian Splatting for Inverse Rendering - CVPR 2025
+PALIWAL Mudit,Multi-Stage Progressive Image Restoration - CVPR 2021
+Syunki Sonohara,Restormer: Efficient Transformer for High-Resolution Image Restoration - CVPR 2022
+ANKENY Luke ,Learning Segementation from Radiology Reports - MICCAI 2025
+Izawa Kensei,Multiphase Particle-Based Simulation of Poro-Elasto-Capillary Effects - SIGGRAPH Asia 2025
+TEGUDELI,Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization ICCV 2017
+DAI Yicheng,Learning a Deep Convolutional Network for Image Super-Resolution - ECCV2014
+Tawde Chinmay ,Dual Aggregation Transformer for Image Super-Resolution - 2023  (ICCV)
+GENG Yifan,Retrieve-to-Restore: Efficient All-in-One Image Restoration with a Retrieval-Based Degradation Bank - CVPR2026
+Syoyo Kishino,Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data - CVPR 2024
+Ryota Isoe,Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input -CVPR 2025
+NAKAMOTO Korin,Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input -CVPR 2025
+KOBAYASHI Kiyo,TranSG: Transformer-Based Skeleton Graph Prototype Contrastive Learning with Structure-Trajectory Prompted Reconstruction for Person Re-Identification -CVPR2023
+Aoi Kato,HVI: A New Color Space for Low-light Image Enhancement — CVPR 2025
+YU Haichen,Pre-to-Post Operative MRI Generation with Retrieval-based Visual In-Context Learning-MICCAI 2025
+Izuru Ippitsu,DUSt3R: Geometric 3D Vision Made Easy - CVPR 2024
+SUN WENHUAN,Segment Anything (ICCV 2023)
+Bahoo Muhammad Ehtesham,Add your entry at the bottom of the list as the paper title was not shown here.
+ZHANG Dexu,NAFNet: Simple Baselines for Image Restoration —ECCV 2022
+NAKANO Go,DiffusionLight: Light Probes for Free by Painting a Chrome Ball - CVPR 2024
+SAITO Tomoki,Haptic Neural Fields: Bringing Tactile Interactions to 3D Rendered Scenes (CVPR2026)
+NIIMI Hideto,UltraFusion: Ultra High Dynamic Imaging using Exposure Fusion || CVPR 2025
+MAEDA Yoshito,Tri-Modal Fusion Transformers for UAV-based Object Detection || CVPR2026
+Itta Kasuga,Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks || ICCV 2017
+Ukai Taisei,DroneSplat: 3D Gaussian Splatting for Robust 3D Reconstruction from In-the-Wild Drone Imagery — CVPR 2025
+LEI Xun,Retrieval-Augmented Few-Shot Medical Image Segmentation with Foundation Models -TNNLS 2025
+KATAYAMA Kensho,GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians CVPR2025
+KEIYA Ikemoto,BUOL:A Bottom-Up Frame work with Occupancy-aware Lifting for Panoptic 3D Scene Reconstruction From A Single Image -CVPR 2023
+WANG Haozhang,Adding Conditional Control to Text-to-Image Diffusion Models - CVPR 2023
+Otani Ryunosuke,TOWARD EFFICIENT DEEP BLIND RAW IMAGE RESTORATION-ICIP 2024
+Yuki Yoshida,U-KAN Makes Strong Backbone for Medical Image Segmentation and Generation - AAAI2025
+Shunichi Kato,Zigzag Diffusion Sampling: Diffusion Models Can Self-Improve via Self-Reflection - ICLR2025
+QINBO,AnyEdit: Mastering Unified High-Quality Image Editing for Any Idea-CVPR2025
+Seiya Ikegami,Prompt Learning via Meta-Regularization (ProMetaR) CVPR 2024
+Shin Nomiyama,Spatially-Adaptive Feature Modulation for Efficient Image Super-Resolution ICCV2023
+Pokalkar Ushake Rohit,DETR: End-to-End Object Detection with Transformers — ECCV 2020
+KANGI SOHAM KISHOR,DINOv2: Learning Robust Visual Features without Supervision ICCV 2023
+ZHANG  Sheng,Replay: Multi-modal Multi-view Acted Videos for Casual Holography
+TAKANOBU Kondo,Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild - CVPR 2024
+GOHEL Shivam,DarkIR: Robust Low-Light Image Restoration - CVPR 2025
+Yuki Kometani,CSUD : Channel Consistency Prior and Self-Reconstruction Strategy BasedUnsupervised Image Deraining-CVPR 2025
+Kota Suzuki,Color Shift Estimation-and-Correction for Image Enhancement - CVPR 2024
+CHEN XUHUI,"Projecting Your View Attentively: Monocular Road Scene Layout Estimation via
+Cross-view Transformation"
+TOKUNAGA Takumi,Learning Customized Visual Models With Retrieval-Augmented Knowledge - CVPR 2023
+DAICHI Yamashita,DnLUT: Ultra-Efficient Color Image Denoising via Channel-Aware Lookup Tables-CVPR 2025
+NAOTO Kumazawa,DocRes: A Generalist Model Toward Unifying Document Image Restoration Tasks CVPR 2024
+Issa Ueno,ColorFLUX: A Structure-Color Decoupling Framework for Old Photo Colorization — CVPR 2026
+Yamashita Ritsuki,MFP: Making Full Use of Probability Maps for Interactive Image Segmentation - CVPR2024
+Keita Yoshizuka,MV-SSM: Multi-View State Space Modeling for 3D Human Pose Estimation -CVPR2025
+YAMATO Shichijo,Neural Light Field Estimation for Street Scenes with Differentiable Virtual Object Insertion -ECCV2022
+Bahoo Muhammad Ehtesham,Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild
+RYOKI NAGAMIZU,Recurrent Vision Transformers for Object Detection with Event Cameras -CVPR 2023
+Haruto Kishimoto,MultiAnimate: Pose-Guided Image Animation Made Extensible
+Kai Amano,Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding
+Jun Kariyazono,MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors - CVPR 2025
+Yutaro Maeno,Neural Inverse Rendering from Propagating Light - CVPR 2025
+SHEN ZIHAN,Image Processing GNN: Breaking Rigidity in Super-Resolution -CVPR 2024
+Haruya Takada,FiLM: Visual Reasoning with a General Conditioning Layer(AAAI 2018)
+Shuta Tanahashi,NeuralPassthrough: Learned Real-Time View Synthesis for VR
+Ai Mitsushima,SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation(CVPR 2026)
+Li Weichao,PhysHead: Simulation-Ready Gaussian Head Avatars(CVPR 2026)
+ZHU Kecheng,CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models -CVPR 2025
+PARK Junwoo,Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data - CVPR 2024
